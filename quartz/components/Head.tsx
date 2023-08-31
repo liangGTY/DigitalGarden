@@ -8,8 +8,8 @@ export default (() => {
     const description = fileData.description?.trim() ?? "No description provided"
     const { css, js } = externalResources
     const baseDir = pathToRoot(fileData.slug!)
-    const iconPath = joinSegments(baseDir, "static/icon.png")
-    const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
+    const iconPath = joinSegments(baseDir, "assets/icon.png")
+    const ogImagePath = `https://${cfg.baseUrl}/assets/og-image.png`
 
     return (
       <head>
