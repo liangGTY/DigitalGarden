@@ -12,4 +12,8 @@ hello! 欢迎来到我的[数字花园]({{< relref "notes/数字花园.md" >}})!
 遂想通过某种方式来记录下这些 曾经也考虑过写博客, 但发现写博客对我来说太难了.
 后来无意中发现了 [卢曼卡片盒笔记法]({{< relref "notes/卢曼卡片盒笔记法.md" >}}) &amp; [EvergreenNotes]({{< relref "notes/evergreennotes.md" >}}). 所以尝试用相关理念与方式来记录我的一些所思所想. 所以你可能会看到一些令人不解甚至是错误的内容.
 
-另外 我也会在 [Awesome-List]({{< relref "notes/awesome_list.md" >}}) 这分享一些我觉得很棒的的一些事物.
+本网站主要集中在以下几个大类
+
+-   计算机程序
+-   [Bookshelf]({{< relref "notes/bookshelf.md" >}})
+-   [Awesome-List]({{< relref "notes/awesome_list.md" >}})
