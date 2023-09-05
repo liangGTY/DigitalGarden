@@ -19,8 +19,16 @@ draft = false
 -   [karabiner]({{< relref "karabiner.md" >}}) 键盘自定义软件
 
 
-### 编辑器 {#编辑器}
+### Code {#code}
 
 -   [emacs]({{< relref "emacs.md" >}})
 -   [vs-code]({{< relref "vs_code.md" >}})
--
+-   [Idea]({{< relref "idea.md" >}})
+-   warp 终端
+
+
+### CommandLine {#commandline}
+
+-   neofetch
+-   ripgrep rust版的grep 主打就是一个快
+-   rga 类似 ripgrep 但是可以搜索PDF zip里的内容
