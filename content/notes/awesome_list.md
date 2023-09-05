@@ -29,6 +29,6 @@ draft = false
 
 ### CommandLine {#commandline}
 
--   neofetch
--   ripgrep rust版的grep 主打就是一个快
--   rga 类似 ripgrep 但是可以搜索PDF zip里的内容
+-   [neofetch](https://github.com/dylanaraps/neofetch) 在命令行显示操作系统信息、软件喝了硬件信息
+-   [ripgrep](https://github.com/BurntSushi/ripgrep) rust版的grep 主打就是一个快
+-   [rga](https://github.com/phiresky/ripgrep-all) 类似 ripgrep 但是可以搜索PDF zip里的内容
