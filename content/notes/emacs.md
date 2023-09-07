@@ -21,7 +21,7 @@ draft = false
 
 -   [GTD]({{< relref "gtd.md" >}})
 -   [EvergreenNotes]({{< relref "evergreennotes.md" >}})
--   Git
+-   [Git]({{< relref "magit.md" >}})
 
 
 ## 优秀的emacs package推荐 {#优秀的emacs-package推荐}
