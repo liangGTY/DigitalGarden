@@ -6,7 +6,7 @@ draft = false
 
 ## screenshot {#screenshot}
 
-[my-mac](/assets/my-mac.png)
+<my-mac>
 
 
 ## Applications {#applications}
