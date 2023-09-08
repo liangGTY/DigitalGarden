@@ -4,12 +4,12 @@ author = ["liangGTY"]
 draft = false
 +++
 
-\*
+## screenshot {#screenshot}
+
+[my-mac](/assets/my-mac.png)
 
 
 ## Applications {#applications}
-
--   Sublime Merge
 
 
 ### Productivity {#productivity}
