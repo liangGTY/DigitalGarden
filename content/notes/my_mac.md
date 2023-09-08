@@ -6,7 +6,7 @@ draft = false
 
 ## screenshot {#screenshot}
 
-<my-mac>
+{{< figure src="assets/my-mac.png" >}}
 
 
 ## Applications {#applications}
