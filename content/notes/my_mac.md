@@ -8,6 +8,8 @@ draft = false
 
 {{< figure src="assets/my-mac.png" >}}
 
+s
+
 
 ## Applications {#applications}
 
