@@ -1,5 +1,5 @@
 +++
-title = "my_device"
+title = "my-device"
 author = ["liangGTY"]
 draft = false
 +++
@@ -11,4 +11,3 @@ draft = false
 -   AppWatch S4
 -   Beats
 -   Apple DisplayStudio
-    sss

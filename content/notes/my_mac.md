@@ -4,7 +4,7 @@ author = ["liangGTY"]
 draft = false
 +++
 
-## screenshot {#screenshot}
+## MacOS {#macos}
 
 {{< figure src="assets/my-mac.png" >}}
 
@@ -24,7 +24,7 @@ draft = false
 -   [1Password](https://1password.com/) 跨平台密码管理器
 -   [Fantastical](https://flexibits.com/fantastical) 日历
 -   [AppCleaner](https://freemacsoft.net/appcleaner/) mac软件卸载工具. 可让你彻底卸载不需要的应用程序
--   `Obsiaian 双链笔记软件`
+-   ~~Obsiaian 双链笔记软件~~ 已切换至 [org-roam]({{< relref "org_roam.md" >}}) v2
 
 
 ### Code {#code}
@@ -43,3 +43,28 @@ draft = false
 -   [neofetch](https://github.com/dylanaraps/neofetch) 在命令行显示操作系统信息、软件和硬件信息
 -   [ripgrep](https://github.com/BurntSushi/ripgrep) rust版的grep 主打就是一个快
 -   [rga](https://github.com/phiresky/ripgrep-all) 类似 ripgrep 但是可以搜索PDF zip里的内容
+
+
+## [macos-defaults](https://macos-defaults.com/) {#macos-defaults}
+
+
+### key repeat rate # 按键重复速率 {#key-repeat-rate-按键重复速率}
+
+```shell
+defaults write -g InitialKeyRepeat -int 10 # normal minimum is 15 (225 ms)
+defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)
+```
+
+
+### Mac Rearrange automatically {#mac-rearrange-automatically}
+
+```shell
+sudo defaults write com.apple.dock "mru-spaces" -bool "false" && killall Dock
+```
+
+
+### Key held down behavior {#key-held-down-behavior}
+
+```shell
+defaults write NSGlobalDomain "ApplePressAndHoldEnabled" -bool "false"
+```
