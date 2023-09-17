@@ -9,6 +9,11 @@ mac下的平铺窗口管理软件. 可以与 [karabiner]({{< relref "karabiner.m
 个人认为是 mac 平台下最适合喜欢折腾和有完全客制化需求的程序员的窗口管理软件.
 
 
+## notes {#notes}
+
+最好禁用 mac 的 [桌面自动排序功能]({{< relref "my_mac.md#mac-rearrange-automatically" >}}). 否则会让你感到很混乱
+
+
 ## yabairc {#yabairc}
 
 ```sh

@@ -31,3 +31,4 @@ draft = false
 -   [magit]({{< relref "magit.md" >}}) git tui
 -   [ox-hugo]({{< relref "ox_hugo.md" >}}) 将 org 文件导出为 hugo 支持的 md 文件
 -   [elfeed](https://github.com/skeeto/elfeed) RSS阅读器 # 待用
+-   [ivy]({{< relref "ivy.md" >}}) 补全框架

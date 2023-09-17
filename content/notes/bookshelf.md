@@ -9,5 +9,5 @@ draft = false
 
 ## Reading {#reading}
 
-
-## Pasd {#pasd}
+-   [Designing Data-Intensive Applications](https://dataintensive.net)
+-   计算广告: 互联网商业变现的市场与技术
