@@ -43,6 +43,7 @@ draft = false
 -   [neofetch](https://github.com/dylanaraps/neofetch) 在命令行显示操作系统信息、软件和硬件信息
 -   [ripgrep](https://github.com/BurntSushi/ripgrep) rust版的grep 主打就是一个快
 -   [rga](https://github.com/phiresky/ripgrep-all) 类似 ripgrep 但是可以搜索PDF zip里的内容
+-   [sdkman]({{< relref "sdkman.md" >}}) java sdk版本管理
 
 
 ## [macos-defaults](https://macos-defaults.com/) {#macos-defaults}
@@ -61,6 +62,8 @@ defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)
 ```shell
 sudo defaults write com.apple.dock "mru-spaces" -bool "false" && killall Dock
 ```
+
+system setting --&gt; Desktop &amp; Dock --&gt; Automatically rearrange Spaces based on most recent use
 
 
 ### Key held down behavior {#key-held-down-behavior}
