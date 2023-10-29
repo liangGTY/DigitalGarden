@@ -15,6 +15,5 @@ hello! 欢迎来到我的[数字花园]({{< relref "notes/数字花园.md" >}})!
 另外也会分享我所知道的一切.
 
 -   [Reactive]({{< relref "notes/reactive.md" >}})
--   计算机程序
 -   [Bookshelf]({{< relref "notes/bookshelf.md" >}})
 -   [my-mac]({{< relref "notes/my_mac.md" >}})
