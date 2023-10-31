@@ -33,7 +33,7 @@ draft = false
 
 > 反应式编程 (reactive programming) 是一种基于数据流 (data stream) 和 变化传递 (propagation of change) 的声明式 (declarative) 的编程范式。
 
-反应式编程是用于构建响应式系统的重要技术之一, 但并不是唯一选择, 通常建议将反应式编程技术与反应式系统的设计原则相结合. 一般也单纯用户[异步编程]({{< relref "异步编程的选型.md" >}})场景
+反应式编程是用于构建响应式系统的重要技术之一, 但并不是唯一选择, 通常建议将反应式编程技术与反应式系统的设计原则相结合. 一般也单纯用于[异步编程]({{< relref "异步编程的选型.md" >}})场景
 
 
 ## Reactive Extensions {#reactive-extensions}
