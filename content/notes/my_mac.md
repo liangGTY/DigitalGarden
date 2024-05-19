@@ -4,6 +4,9 @@ author = ["liangGTY"]
 draft = false
 +++
 
+[my-ios]({{< relref "my_ios.md" >}})
+
+
 ## MacOS {#macos}
 
 {{< figure src="assets/my-mac.png" >}}

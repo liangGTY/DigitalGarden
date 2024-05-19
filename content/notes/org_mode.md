@@ -21,3 +21,8 @@ Org 是一种高度灵活的结构化纯文本文件格式，由一些简单但�
 -   [org-roam]({{< relref "org_roam.md" >}})
 -   ox-hugo
 -   org-bars 标题美化 支持自动编号
+
+
+## 文档 {#文档}
+
+-   [org-mode最佳实践](http://doc.norang.ca/org-mode.html#HowToUseThisDocument)

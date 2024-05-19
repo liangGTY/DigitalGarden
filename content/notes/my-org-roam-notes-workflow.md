@@ -25,7 +25,6 @@ draft = false
 
 ### ox-hugo {#ox-hugo}
 
-aasss12
 org-roam to hugo-markdown
 
 
