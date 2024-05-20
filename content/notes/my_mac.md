@@ -9,7 +9,7 @@ draft = false
 
 ## MacOS {#macos}
 
-{{< figure src="assets/my-mac.png" >}}
+{{< figure src="/assets/my-mac.png" >}}
 
 
 ## Applications {#applications}
@@ -28,6 +28,7 @@ draft = false
 -   [Fantastical](https://flexibits.com/fantastical) 日历
 -   [AppCleaner](https://freemacsoft.net/appcleaner/) mac软件卸载工具. 可让你彻底卸载不需要的应用程序
 -   ~~Obsiaian 双链笔记软件~~ 已切换至 [org-roam]({{< relref "org_roam.md" >}}) v2
+-   [BetterDisplay](https://github.com/waydabber/BetterDisplay) 强大的外置显示器控制
 
 
 ### Code {#code}

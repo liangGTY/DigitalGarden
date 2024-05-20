@@ -17,7 +17,7 @@ draft = false
 
 ## 我的workflow {#我的workflow}
 
-{{< figure src="assets/org-roam-workflow.png" >}}
+{{< figure src="/assets/org-roam-workflows.png" >}}
 
 
 ## publish {#publish}

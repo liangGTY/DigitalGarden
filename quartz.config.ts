@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "🪴 liangGTY's DigitalGarden",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -53,7 +53,7 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
-      Plugin.FrontMatter(),
+      Plugin.FrontMatter({delims: "+++", language: "toml" }),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
       }),
@@ -65,7 +65,8 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      // Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.OxHugoFlavouredMarkdown({replaceFigureWithMdImg: true}),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
